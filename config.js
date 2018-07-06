@@ -1,4 +1,4 @@
-exports.TOKEN = 'process.env.token';
+exports.TOKEN = process.env.token;
 
 exports.PREFIX = 'ms!';
 
