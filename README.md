@@ -1,2 +1,2 @@
-# musicsenge
-summer light
+# MusicSenge
+Bot Senga!
